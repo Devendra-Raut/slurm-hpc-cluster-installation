@@ -102,7 +102,7 @@ Its primary responsibilities include:
 | Component        | Version         |
 | ---------------- | --------------- |
 | Operating System | Rocky Linux 9.6 |
-| Slurm            | 25.05.x         |
+| Slurm            | 25.05.8         |
 | Authentication   | Munge           |
 | Database         | MariaDB         |
 | SSH              | OpenSSH         |
